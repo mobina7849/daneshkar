@@ -1,0 +1,17 @@
+.top{
+    display:block;
+    background-color: rgb(77, 100, 90);
+    height: 150px;
+}
+.sidebar{
+    background-color: aqua;
+    display:inline-block;
+    width:50px;
+    height: 600px;
+}
+.main{
+    width: 1000px;
+    height: 600px;
+    background: red;
+    display: inline-block;
+}
